@@ -1,6 +1,6 @@
 
 /**
- *  Descripción de un estudiante
+ *  Descripción del estudiante
  * 
  * @author - Montse 
  *  
